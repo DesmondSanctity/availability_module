@@ -1,0 +1,96 @@
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/templates/the-big-picture)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+
+@font-face {
+  font-family: Poppins-Regular;
+  src: url('../fonts/poppins/Poppins-Regular.ttf');
+}
+
+@font-face {
+  font-family: Poppins-Small;
+  src: url('../fonts/poppins/Poppins-Medium.ttf');
+}
+
+@font-face {
+  font-family: Poppins-Bold;
+  src: url('../fonts/poppins/Poppins-Bold.ttf');
+}
+
+@font-face {
+  font-family: Poppins-SemiBold;
+  src: url('../fonts/poppins/Poppins-SemiBold.ttf');
+}
+
+body {
+  /*background-color: #e8519e;*/
+  /*opacity: 0.8;*/
+  background: url('/images/timesheet.png') no-repeat center center fixed;
+  -webkit-background-size: auto;
+  -moz-background-size: auto;
+  background-size: auto;
+  -o-background-size: auto;
+  margin: 0px;
+}
+
+a {
+  font-family: Poppins-Regular;
+  font-size: 20px;
+  line-height: 1.0;
+  margin: 0px;
+  color: white;
+  transition: all 0.4s;
+  -webkit-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+}
+
+.nav-link {
+  font-family: Poppins-Regular;
+  font-size: 10px;
+  color: #ffffff !important;
+  line-height: 1.4;
+}
+
+.navbar-brand {
+  font-family: Poppins-Regular;
+  font-size: 20px;
+  line-height: 1.0;
+  margin: 0px;
+  color: white !important;
+  transition: all 0.4s;
+  -webkit-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+}
+
+h1 {
+  font-family: Poppins-Regular;
+  font-size: 40px;
+  line-height: 1.7;
+  margin: 0px;
+
+}
+
+a:focus {
+  outline: none !important;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+p {
+  font-family: Poppins-Regular;
+  font-size: 20px;
+  line-height: 1.7;
+  margin-top: 50px !important;
+  color: #FF1493;
+}
+
+/*.container {
+  */
+  /*  height: 70vh;*/
+  /*}*/
